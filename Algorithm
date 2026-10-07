@@ -1,0 +1,8 @@
+Algorithm
+1. Create a dictionary with initial key-value pairs.
+2. Access values using keys directly and via the get() method.
+3. Add and modify items by assigning values to keys.
+4. Extract structural data using keys(), values(), and items().
+5. Check key existence using the in keyword.
+6. Remove an element using pop().
+7. Iterate through the dictionary using a loop to print all records.
