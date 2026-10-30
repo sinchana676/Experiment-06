@@ -1,3 +1,6 @@
+AIM
+To write a Python program to demonstrate various dictionary methods and operations.
+
 Algorithm
 1. Create a dictionary with initial key-value pairs.
 2. Access values using keys directly and via the get() method.
